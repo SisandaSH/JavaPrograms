@@ -1,1 +1,1 @@
-Simple programs to evaluate understanding of Java console appications
+Simple programs to evaluate understanding of Java console applications
