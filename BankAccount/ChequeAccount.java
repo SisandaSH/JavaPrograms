@@ -15,7 +15,7 @@ public class ChequeAccount {
         // Loop for entering transactions until the value is 0
         do {
             // Ask for the transaction (deposit or cheque)
-            System.out.print("Enter the transaction (deposit or cheque, 0 to quit): R");
+            System.out.print("Enter the transaction (deposit(number) or cheque(number), 0 to quit): R");
             transaction = scanner.nextDouble();
 
             // If the transaction is not 0, update the balance and display it
