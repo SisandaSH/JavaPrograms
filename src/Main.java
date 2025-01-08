@@ -10,5 +10,6 @@ public class Main {
         double unitsUsed = input.getUnitsUsed();
         double amountPayable = calculator.calculateAmountPayable(unitsUsed);
         output.displayAmountPayable(amountPayable);
+
     }
 }
